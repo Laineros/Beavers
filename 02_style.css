@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body {
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+/*	text-decoration: overline underline;*/
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	color: #9400D3;
+	background: #71c6d9e6;
+	margin: auto;
+	max-width: 1350px;
+}
